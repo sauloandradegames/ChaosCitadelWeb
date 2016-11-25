@@ -1,0 +1,4 @@
+!000|Testificate a normal event.
+-001|A
+-002|B
++

@@ -1,0 +1,5 @@
+!001|Testificate a combat event!!!
+-Avestruz|020|010
+-Pepino|070|012
+-Mamona|042|009
++
